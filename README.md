@@ -2,7 +2,7 @@
 ## Overview
 Created to organize and centralize screwdrivers in the APIL workspace. It is made using 3D printed parts uniquely designed around each individual screwdriver. The shelf is able to comfortably hold 19 screwdrivers. 
 
-## Materials and Equipment**  
+## Materials and Equipment  
 - 4 x M4 14mm screws  
 - 4 x M4 20mm screws  
 - 4 x M4 25mm screws  
@@ -12,7 +12,7 @@ Created to organize and centralize screwdrivers in the APIL workspace. It is mad
 PLA (polylactic acid) filament  
 3D printer (a Prusa i3 MK3 printer was used here)
 
-## Parts**  
+## Parts  
 M- main  
 S- secondary
 
@@ -33,7 +33,7 @@ E- Extruding
 - 1 x MPD  
 - 1 x SP
 
-## Assembly**
+## Assembly
 
 1. Using the M4 25mm screws, attach the 4 long legs (MLE; MLD) to the flat bottom of the 2 large panels (MPE; MPD), 1 leg on each rounded corner. Be sure to position the 2 legs with the extruding triangular supports (MLE) towards each other across the long side of the shelf. Depending on preference, the arms on the panels can be either in the front, or the back of the shelf. The side that the supports are on will be the front of the shelf.  
 2. Match the 4 holes on the planar, rectangular connector (MC) with the holes on the bottom of the 2 large panels (MPE; MPD), and attach them with the M4 14mm screws.   
