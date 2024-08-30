@@ -22,8 +22,8 @@ C- connector
 L- leg  
 P- panel
 
-D- Depressed  
-E- Extruding  
+D- depressed  
+E- extruding  
 
 - 1 x MC  
 - 1 x SCE  
