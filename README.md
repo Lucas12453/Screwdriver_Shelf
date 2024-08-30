@@ -2,6 +2,8 @@
 ## Overview
 Created to organize and centralize screwdrivers in the APIL workspace. It is made using 3D printed parts uniquely designed around each individual screwdriver. The shelf is able to comfortably hold 19 screwdrivers. 
 
+<img src="https://github.com/Lucas12453/Screwdriver_Shelf/blob/main/Images/tool_shelf_1.jpeg" width="450"> <img src="https://github.com/Lucas12453/Screwdriver_Shelf/blob/main/Images/tool_shelf_4.jpeg" width="450"> <img src="https://github.com/Lucas12453/Screwdriver_Shelf/blob/main/Images/tool_shelf_2.jpeg" width="450"> <img src="https://github.com/Lucas12453/Screwdriver_Shelf/blob/main/Images/tool_shelf_3.jpeg" width="450"> 
+
 ## Materials and Equipment  
 - 4 x M4 14mm screws  
 - 4 x M4 20mm screws  
@@ -20,7 +22,7 @@ C- connector
 L- leg  
 P- panel
 
-D- Depressed
+D- Depressed  
 E- Extruding  
 
 - 1 x MC  
